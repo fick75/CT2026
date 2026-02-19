@@ -1,0 +1,5 @@
+{
+  "name": "DocuGen Pro - CITRO-UV",
+  "description": "Sistema avanzado de gestión y automatización de documentos académicos para el Consejo Técnico. Incluye generación de PDFs, asistencia por IA y notificaciones por correo.",
+  "requestFramePermissions": []
+}
